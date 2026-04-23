@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://throbbing-glitter-1d43.mahdi-2021-m2.workers.dev/:path*"
+    }
+  ]
+}
